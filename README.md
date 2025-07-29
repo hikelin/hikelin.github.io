@@ -22,23 +22,23 @@
 
 **基本知识**：
 
-- [5分钟](./docs/infra/iaas/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/infra/iaas/5-mins-overview.md)
 
 ### PaaS
 
 **基本知识**：
 
-- [5分钟](./docs/infra/PaaS/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/infra/PaaS/5-mins-overview.md) 
 
 ### SaaS
 
 **基本知识**：
 
-- [5分钟](./docs/infra/SaaS/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/infra/SaaS/5-mins-overview.md) 
 
 ### 新概念
 
-- [5分钟](./docs/infra/new-concept/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/infra/new-concept/5-mins-overview.md) 
 
 ## Programming Language
 
@@ -52,7 +52,7 @@
 
 **基本知识**：
 
-- [5分钟](./docs/programming/java/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/programming/java/5-mins-overview.md) 
 
 ## Framework
 
@@ -60,7 +60,7 @@
 
 **基本知识**：
 
-- [5分钟](./docs/framework/spring-boot/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/framework/spring-boot/5-mins-overview.md) 
 
 
 ## Middleware
@@ -75,7 +75,7 @@
 
 **基本知识**：
 
-- [5分钟](./docs/middleware/kafka/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/middleware/kafka/5-mins-overview.md) 
 
 
 ## Data Storage
@@ -92,14 +92,14 @@
 
 **基本知识**：
 
-- [5分钟](./docs/data-storage/oracle/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/data-storage/oracle/5-mins-overview.md) 
 
 
 ### MongoDB
 
 **基本知识**：
 
-- [5分钟](./docs/data-storage/mongodb/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/data-storage/mongodb/5-mins-overview.md) 
 
 
 ## CI/CD
@@ -124,20 +124,20 @@
 
 **基本知识**：
 
-- [5分钟](./docs/architecture/microservice/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/architecture/microservice/5-mins-overview.md) 
 
 ### EDA
 
 **基本知识**：
 
-- [5分钟](./docs/architecture/eda/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/architecture/eda/5-mins-overview.md) 
 
 
 ### ATAM
 
 **基本知识**：
 
-- [5分钟](./docs/architecture/atam/5-mins-overview.md) (必看 :+1:)
+- [5分钟概览](./docs/architecture/atam/5-mins-overview.md) 
 
 ## Big Data
 
