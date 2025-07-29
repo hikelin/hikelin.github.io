@@ -1,37 +1,156 @@
-## Welcome to GitHub Pages
+## 欢迎阅读我的博客
 
-You can use the [editor on GitHub](https://github.com/hikelin/hikelin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> - **求个Star**：如果觉得我的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉！Github 地址：[https://gitee.com/hikelin/hikelin.github.io](https://gitee.com/hikelin/hikelin.github.io) 。
+> - **转载须知**：以下所有文章如非文首说明为转载皆为我的原创，转载请在文首注明出处。如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目相关
 
-### Markdown
+- [项目介绍](./intro.md)
+- [使用建议](./read-suggestion.md)
+- [贡献指南](./contribution-guideline.md)
+- [常见问题](./faq.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Infra
 
-```markdown
-Syntax highlighted code block
+### 基础背景
 
-# Header 1
-## Header 2
-### Header 3
+**当前业内实际使用总结** :
 
-- Bulleted
-- List
+- [Infra基础介绍](./infra/basis/infra-basic-01.md)
 
-1. Numbered
-2. List
+### IaaS
 
-**Bold** and _Italic_ and `Code` text
+**基本知识**：
 
-[Link](url) and ![Image](src)
-```
+- [5分钟](./docs/infra/iaas/5-mins-overview.md) (必看 :+1:)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### PaaS
 
-### Jekyll Themes
+**基本知识**：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hikelin/hikelin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [5分钟](./docs/infra/PaaS/5-mins-overview.md) (必看 :+1:)
 
-### Support or Contact
+### SaaS
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**基本知识**：
+
+- [5分钟](./docs/infra/SaaS/5-mins-overview.md) (必看 :+1:)
+
+### 新概念
+
+- [5分钟](./docs/infra/new-concept/5-mins-overview.md) (必看 :+1:)
+
+## Programming Language
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [编程语言介绍](./programming/basis/programming-basic-01.md)
+
+### JAVA
+
+**基本知识**：
+
+- [5分钟](./docs/programming/java/5-mins-overview.md) (必看 :+1:)
+
+## Framework
+
+### Spring Boot
+
+**基本知识**：
+
+- [5分钟](./docs/framework/spring-boot/5-mins-overview.md) (必看 :+1:)
+
+
+## Middleware
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [编程语言介绍](./middleware/basis/middleware-basic-01.md)
+
+### Kafka
+
+**基本知识**：
+
+- [5分钟](./docs/middleware/kafka/5-mins-overview.md) (必看 :+1:)
+
+
+## Data Storage
+
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [编程语言介绍](./data-storage/basis/data-storage-basic-01.md)
+
+
+### Oracle
+
+**基本知识**：
+
+- [5分钟](./docs/data-storage/oracle/5-mins-overview.md) (必看 :+1:)
+
+
+### MongoDB
+
+**基本知识**：
+
+- [5分钟](./docs/data-storage/mongodb/5-mins-overview.md) (必看 :+1:)
+
+
+## CI/CD
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [CI/CD介绍](./ci-cd/basis/ci-cd-basic-01.md)
+
+
+## Architecture
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [架构方法论介绍](./architecture/basis/architecture-basic-01.md)
+
+
+### 微服务
+
+**基本知识**：
+
+- [5分钟](./docs/architecture/microservice/5-mins-overview.md) (必看 :+1:)
+
+### EDA
+
+**基本知识**：
+
+- [5分钟](./docs/architecture/eda/5-mins-overview.md) (必看 :+1:)
+
+
+### ATAM
+
+**基本知识**：
+
+- [5分钟](./docs/architecture/atam/5-mins-overview.md) (必看 :+1:)
+
+## Big Data
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [大数据技术介绍](./bigdata/basis/bigdata-basic-01.md)
+
+## AI
+
+### 基础背景
+
+**当前业内实际使用总结** :
+
+- [AI介绍](./ai/basis/ai-basic-01.md)
