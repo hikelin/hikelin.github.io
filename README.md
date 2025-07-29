@@ -1,6 +1,6 @@
-## 欢迎阅读我的博客
+## Hike Lin Personal Blog
 
-> - **求个Star**：如果觉得我的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉！Github 地址：[https://gitee.com/hikelin/hikelin.github.io](https://gitee.com/hikelin/hikelin.github.io) 。
+> - **求个Star**：如果觉得我的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉! Github 地址：[https://github.com/hikelin/hikelin.github.io](https://gitee.com/hikelin/hikelin.github.io)  Gitee 地址：[https://gitee.com/hikelin/hikelin.github.io](https://gitee.com/hikelin/hikelin.github.io) 。
 > - **转载须知**：以下所有文章如非文首说明为转载皆为我的原创，转载请在文首注明出处。如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 ## 项目相关
