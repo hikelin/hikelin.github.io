@@ -16,7 +16,7 @@
 
 **当前业内实际使用总结** :
 
-- [Infra基础介绍](./infra/basis/infra-basic-01.md)
+- [Infra基础介绍](./docs/infra/basis/infra-basic-01.md)
 
 ### IaaS
 
@@ -46,7 +46,7 @@
 
 **当前业内实际使用总结** :
 
-- [编程语言介绍](./programming/basis/programming-basic-01.md)
+- [编程语言介绍](./docs/programming/basis/programming-basic-01.md)
 
 ### JAVA
 
@@ -69,7 +69,7 @@
 
 **当前业内实际使用总结** :
 
-- [编程语言介绍](./middleware/basis/middleware-basic-01.md)
+- [编程语言介绍](./docs/middleware/basis/middleware-basic-01.md)
 
 ### Kafka
 
@@ -85,7 +85,7 @@
 
 **当前业内实际使用总结** :
 
-- [编程语言介绍](./data-storage/basis/data-storage-basic-01.md)
+- [编程语言介绍](./docs/data-storage/basis/data-storage-basic-01.md)
 
 
 ### Oracle
@@ -117,7 +117,7 @@
 
 **当前业内实际使用总结** :
 
-- [架构方法论介绍](./architecture/basis/architecture-basic-01.md)
+- [架构方法论介绍](./docs/architecture/basis/architecture-basic-01.md)
 
 
 ### 微服务
