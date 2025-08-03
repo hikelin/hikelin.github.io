@@ -17,3 +17,6 @@
 
 - [事务的隔离级别](./archives/事务的隔离级别.md)
 
+
+- [SpringBoot 中的Bean什么时候不是单例模式](./archives/SpringBoot 中的Bean什么时候不是单例模式.md)
+
