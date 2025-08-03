@@ -20,3 +20,6 @@
 
 - [SpringBoot 中的Bean什么时候不是单例模式](./archives/SpringBoot 中的Bean什么时候不是单例模式.md)
 
+
+- [如何进行微服务拆分](./archives/如何进行微服务拆分.md)
+
