@@ -1,9 +1,4 @@
 
-- [你是谁](./archives/你是谁.md)
 
-
-- [你是谁](./archives/你是谁.md)
-
-
-- [你是谁](./archives/你是谁.md)
+- [你知道哪些设计模式](./archives/你知道哪些设计模式.md)
 
