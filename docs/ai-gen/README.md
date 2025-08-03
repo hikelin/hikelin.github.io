@@ -8,3 +8,6 @@
 
 - [Kafka如何保证多消费者模式下消息的顺序](./archives/Kafka如何保证多消费者模式下消息的顺序.md)
 
+
+- [Redis的使用场景有哪些](./archives/Redis的使用场景有哪些.md)
+
