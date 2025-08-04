@@ -47,3 +47,6 @@
 
 - [Java实现责任链模式](./archives/Java实现责任链模式.md)
 
+
+- [Java实现策略模式](./archives/Java实现策略模式.md)
+
