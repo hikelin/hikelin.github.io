@@ -35,3 +35,6 @@
 
 - [项目从云虚拟机迁移到容器化平台OpenShift的过程](./archives/项目从云虚拟机迁移到容器化平台OpenShift的过程.md)
 
+
+- [Java中单例模式的实现方式有哪些](./archives/Java中单例模式的实现方式有哪些.md)
+
