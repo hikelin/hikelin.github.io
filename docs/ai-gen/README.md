@@ -44,3 +44,6 @@
 
 - [Java实现装饰器模式](./archives/Java实现装饰器模式.md)
 
+
+- [Java实现责任链模式](./archives/Java实现责任链模式.md)
+
