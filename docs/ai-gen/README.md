@@ -32,3 +32,6 @@
 
 - [K8s 的readiness 和 liveness有什么区别](./archives/K8s 的readiness 和 liveness有什么区别.md)
 
+
+- [项目从云虚拟机迁移到容器化平台OpenShift的过程](./archives/项目从云虚拟机迁移到容器化平台OpenShift的过程.md)
+
