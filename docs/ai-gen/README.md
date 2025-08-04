@@ -29,3 +29,6 @@
 
 - [服务从物理机机迁移到云虚拟机的过程](./archives/服务从物理机机迁移到云虚拟机的过程.md)
 
+
+- [K8s 的readiness 和 liveness有什么区别](./archives/K8s 的readiness 和 liveness有什么区别.md)
+
