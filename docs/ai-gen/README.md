@@ -53,3 +53,6 @@
 
 - [SpringBoot使用了哪些设计模式](./archives/SpringBoot使用了哪些设计模式.md)
 
+
+- [JDK使用了哪些设计模式](./archives/JDK使用了哪些设计模式.md)
+
