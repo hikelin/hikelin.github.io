@@ -38,3 +38,6 @@
 
 - [Java中单例模式的实现方式有哪些](./archives/Java中单例模式的实现方式有哪些.md)
 
+
+- [Java实现适配器模式](./archives/Java实现适配器模式.md)
+
