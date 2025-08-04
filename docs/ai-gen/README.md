@@ -41,3 +41,6 @@
 
 - [Java实现适配器模式](./archives/Java实现适配器模式.md)
 
+
+- [Java实现装饰器模式](./archives/Java实现装饰器模式.md)
+
