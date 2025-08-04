@@ -59,3 +59,6 @@
 
 - [微服务有哪些核心思想](./archives/微服务有哪些核心思想.md)
 
+
+- [CQRS模式](./archives/CQRS模式.md)
+
