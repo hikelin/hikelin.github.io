@@ -74,3 +74,6 @@
 
 - [Java IO种类有哪些](./archives/Java IO种类有哪些.md)
 
+
+- [yo wat up](./archives/yo wat up.md)
+
