@@ -5,10 +5,10 @@
 
 ## 项目相关
 
-- [项目介绍](./intro.md)
-- [使用建议](./read-suggestion.md)
-- [贡献指南](./contribution-guideline.md)
-- [常见问题](./faq.md)
+- [项目介绍](./intro)
+- [使用建议](./read-suggestion)
+- [贡献指南](./contribution-guideline)
+- [常见问题](./faq)
 
 ## Infra
 
@@ -16,29 +16,29 @@
 
 **当前业内实际使用总结** :
 
-- [Infra基础介绍](./docs/infra/basis/infra-basic-01.md)
+- [Infra基础介绍](./docs/infra/basis/infra-basic-01)
 
 ### IaaS
 
 **基本知识**：
 
-- [5分钟概览](./docs/infra/iaas/5-mins-overview.md)
+- [5分钟概览](./docs/infra/iaas/5-mins-overview)
 
 ### PaaS
 
 **基本知识**：
 
-- [5分钟概览](./docs/infra/PaaS/5-mins-overview.md) 
+- [5分钟概览](./docs/infra/PaaS/5-mins-overview) 
 
 ### SaaS
 
 **基本知识**：
 
-- [5分钟概览](./docs/infra/SaaS/5-mins-overview.md) 
+- [5分钟概览](./docs/infra/SaaS/5-mins-overview) 
 
 ### 新概念
 
-- [5分钟概览](./docs/infra/new-concept/5-mins-overview.md) 
+- [5分钟概览](./docs/infra/new-concept/5-mins-overview) 
 
 ## Programming Language
 
@@ -46,17 +46,17 @@
 
 **当前业内实际使用总结** :
 
-- [编程语言介绍](./docs/programming/basis/programming-basic-01.md)
+- [编程语言介绍](./docs/programming/basis/programming-basic-01)
 
 ### JAVA
 
 **基本知识**：
 
-- [5分钟概览](./docs/programming/java/5-mins-overview.md) 
+- [5分钟概览](./docs/programming/java/5-mins-overview) 
 
 ## Framework
 **Spring Framework**：
-- [overview](./docs/framework/spring/overview.md) 
+- [overview](./docs/framework/spring-framework) 
 
 
 ## Middleware
@@ -65,13 +65,13 @@
 
 **当前业内实际使用总结** :
 
-- [编程语言介绍](./docs/middleware/basis/middleware-basic-01.md)
+- [编程语言介绍](./docs/middleware/basis/middleware-basic-01)
 
 ### Kafka
 
 **基本知识**：
 
-- [5分钟概览](./docs/middleware/kafka/5-mins-overview.md) 
+- [5分钟概览](./docs/middleware/kafka/5-mins-overview) 
 
 
 ## Data Storage
@@ -81,21 +81,21 @@
 
 **当前业内实际使用总结** :
 
-- [编程语言介绍](./docs/data-storage/basis/data-storage-basic-01.md)
+- [编程语言介绍](./docs/data-storage/basis/data-storage-basic-01)
 
 
 ### Oracle
 
 **基本知识**：
 
-- [5分钟概览](./docs/data-storage/oracle/5-mins-overview.md) 
+- [5分钟概览](./docs/data-storage/oracle/5-mins-overview) 
 
 
 ### MongoDB
 
 **基本知识**：
 
-- [5分钟概览](./docs/data-storage/mongodb/5-mins-overview.md) 
+- [5分钟概览](./docs/data-storage/mongodb/5-mins-overview) 
 
 
 ## CI/CD
@@ -104,7 +104,7 @@
 
 **当前业内实际使用总结** :
 
-- [CI/CD介绍](./ci-cd/basis/ci-cd-basic-01.md)
+- [CI/CD介绍](./ci-cd/basis/ci-cd-basic-01)
 
 
 ## Architecture
@@ -113,27 +113,27 @@
 
 **当前业内实际使用总结** :
 
-- [架构方法论介绍](./docs/architecture/basis/architecture-basic-01.md)
+- [架构方法论介绍](./docs/architecture/basis/architecture-basic-01)
 
 
 ### 微服务
 
 **基本知识**：
 
-- [5分钟概览](./docs/architecture/microservice/5-mins-overview.md) 
+- [5分钟概览](./docs/architecture/microservice/5-mins-overview) 
 
 ### EDA
 
 **基本知识**：
 
-- [5分钟概览](./docs/architecture/eda/5-mins-overview.md) 
+- [5分钟概览](./docs/architecture/eda/5-mins-overview) 
 
 
 ### ATAM
 
 **基本知识**：
 
-- [5分钟概览](./docs/architecture/atam/5-mins-overview.md) 
+- [5分钟概览](./docs/architecture/atam/5-mins-overview) 
 
 ## Big Data
 
@@ -141,7 +141,7 @@
 
 **当前业内实际使用总结** :
 
-- [大数据技术介绍](./bigdata/basis/bigdata-basic-01.md)
+- [大数据技术介绍](./bigdata/basis/bigdata-basic-01)
 
 ## AI
 
@@ -149,4 +149,4 @@
 
 **当前业内实际使用总结** :
 
-- [AI介绍](./ai/basis/ai-basic-01.md)
+- [AI介绍](./ai/basis/ai-basic-01)
