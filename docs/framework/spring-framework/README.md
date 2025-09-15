@@ -1,3 +1,3 @@
 # Spring Framework
 
-![spring_framework.drawio](spring_framework.drawio.png)
+- [思维导图](./mind-map/spring_framework.drawio.html) 

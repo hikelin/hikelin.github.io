@@ -55,9 +55,8 @@
 - [5分钟概览](./docs/programming/java/5-mins-overview) 
 
 ## Framework
-**Spring Framework**：
-- [overview](./docs/framework/spring-framework) 
 
+- [Spring Framework](./docs/framework/spring-framework/mind-map/spring_framework.drawio.html) 
 
 ## Middleware
 
