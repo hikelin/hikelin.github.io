@@ -20,8 +20,8 @@
 
 ## Data Storage
 
-- [OracleDB](./docs/data-storage/oracle)
-- [MongoDB](./docs/data-storage/mongo)
+- [OracleDB](./docs/data-storage/OracleDB/mind-map/oracle_db.drawio.html)
+- [MongoDB](./docs/data-storage/MongoDB/mind-map/mongo_db.drawio.html)
 
 ## Infra
 
