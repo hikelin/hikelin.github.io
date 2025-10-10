@@ -126,8 +126,23 @@
         <mxCell id="t2AcmH2n_HT6Ft2l21uT-6" value="优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="105" y="2210" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2AcmH2n_HT6Ft2l21uT-7" target="yGTXuYv_tZkV92r32ezA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2AcmH2n_HT6Ft2l21uT-7" target="yGTXuYv_tZkV92r32ezA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2AcmH2n_HT6Ft2l21uT-7" target="yGTXuYv_tZkV92r32ezA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2AcmH2n_HT6Ft2l21uT-7" target="yGTXuYv_tZkV92r32ezA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2AcmH2n_HT6Ft2l21uT-7" target="yGTXuYv_tZkV92r32ezA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t2AcmH2n_HT6Ft2l21uT-7" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="105" y="2690" width="220" height="80" as="geometry" />
+          <mxGeometry x="105" y="3030" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t2AcmH2n_HT6Ft2l21uT-39" value="spring-boot-starter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="710" width="120" height="40" as="geometry" />
@@ -661,6 +676,54 @@
         </mxCell>
         <mxCell id="dLUWdnywLwALg5VkBR4L-203" value="GraalVM 原生镜像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="600" y="2430" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-1" value="@EnableCaching" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="2580" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-2" value="&lt;div&gt;默认情况下，@EnableCaching 将注册一个ConcurrentMapCacheManager的Bean，不需要单独的 bean 声明。ConcurrentMapCacheManager将值存储在ConcurrentHashMap的实例中，这是缓存机制的最简单的线程安全实现。&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="565" y="2571.88" width="597.5" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-3" value="spring-boot-starter-data-redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="2700" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-4" value="&lt;div&gt;@Bean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public CacheManager cacheManager() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RedisCacheConfiguration redisCacheConfiguration = RedisCacheConfiguration.defaultCacheConfig()&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .disableCachingNullValues()&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .serializeValuesWith(SerializationPair.fromSerializer(new GenericJackson2JsonRedisSerializer()));&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RedisCacheManager redisCacheManager = RedisCacheManager.builder(redisConnectionFactory())&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .cacheDefaults(redisCacheConfiguration)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .build();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; return redisCacheManager;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2626.4" width="597.5" height="177.19" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-5" value="@Cacheable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="2820" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-6" value="&lt;div&gt;该注解可以将方法运行的结果进行缓存，在缓存时效内再次调用该方法时不会调用方法本身，而是直接从缓存获取结果并返回给调用方。&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2820" width="597.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-7" value="@CachPut" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="2900" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-8" value="&lt;div&gt;@CachePut 注解标注的方法，在执行前不会去检查缓存中是否存在之前执行过的结果，而是每次都会执行该方法，并将执行结果以键值对的形式写入指定的缓存中。@CachePut 注解一般用于更新缓存数据，相当于缓存使用的是写模式中的&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;双写模式&lt;/font&gt;&lt;/b&gt;。&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2900" width="597.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-9" value="@CachEvict" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="3000" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-10" value="标注了 @CacheEvict 注解的方法在被调用时，会从缓存中移除已存储的数据。@CacheEvict 注解一般用于删除缓存数据，相当于缓存使用的是写模式中的&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;失效模式。&lt;/font&gt;&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3000" width="597.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-11" value="@Caching" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="3110" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-12" value="@Caching 注解用于在一个方法或者类上，同时指定多个 Spring Cache 相关的注解&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;同时失效两个缓存&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span data-line-num=&quot;12&quot; class=&quot;code-block-extension-codeLine&quot;&gt;    &lt;span class=&quot;hljs-meta&quot;&gt;@Caching(evict = {&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span data-line-num=&quot;13&quot; class=&quot;code-block-extension-codeLine&quot;&gt;        @CacheEvict(value = &quot;myCache&quot;, key = &quot;#entity.id&quot;),&lt;/span&gt;&lt;br&gt;&lt;span data-line-num=&quot;14&quot; class=&quot;code-block-extension-codeLine&quot;&gt;        @CacheEvict(value = &quot;otherCache&quot;, key = &quot;#entity.id&quot;)&lt;/span&gt;&lt;br&gt;&lt;span data-line-num=&quot;15&quot; class=&quot;code-block-extension-codeLine&quot;&gt;    })&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3080" width="597.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-13" value="@CachConfig" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="3230" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-14" value="通过@CacheConfig 注解，我们可以将一些缓存配置简化到类级别的一个地方，这样我们就不必多次声明相关值&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;@CacheConfig(cacheNames={&quot;myCache&quot;})&lt;/div&gt;&lt;div&gt;@Service&lt;/div&gt;&lt;div&gt;public class MyService {}&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3215" width="597.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-15" value="Condition &amp;amp; Unless" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="3360" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yGTXuYv_tZkV92r32ezA-16" value="指定缓存的条件" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=0;direction=south;dashed=1;dashPattern=1 4;fontColor=#000000;flipV=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3357.5" width="140" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
