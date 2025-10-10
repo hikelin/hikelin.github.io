@@ -222,18 +222,6 @@
         <mxCell id="nR0HkuhDGCpSzbCuDiu6-28" value="启动提速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="405" y="2340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IRFKdp7hWe3fMcDG9N0o-1" value="接入数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="130" y="4290" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IRFKdp7hWe3fMcDG9N0o-2" value="接入redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="130" y="4410" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IRFKdp7hWe3fMcDG9N0o-3" value="接入kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="130" y="4530" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IRFKdp7hWe3fMcDG9N0o-4" value="定时任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="130" y="4630" width="220" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="dLUWdnywLwALg5VkBR4L-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dLUWdnywLwALg5VkBR4L-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="130" as="targetPoint" />
