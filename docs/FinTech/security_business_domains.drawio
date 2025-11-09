@@ -1,0 +1,156 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="Tq5aagNuAvjmSOSWZni0">
+    <mxGraphModel dx="1237" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;ul class=&quot;section-list&quot; style=&quot;box-sizing: border-box; margin: 0.5rem 0px 1rem 0rem; padding: 0px 0px 0px 3rem; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; color: rgb(68, 94, 137); list-style-type: disc; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/ul&gt;" link="&lt;ul class=&quot;section-list&quot; style=&quot;box-sizing: border-box; margin: 0.5rem 0px 1rem 0rem; padding: 0px 0px 0px 3rem; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; color: rgb(68, 94, 137); list-style-type: disc; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 7.34375px; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; line-height: 2.4em;&quot;&gt;&lt;a class=&quot;hover-uline&quot; href=&quot;https://www.iotafinance.com/en/SWIFT-ISO20022-Business-domain-Card-Payments.html&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; border: 0px; font-size: 1.3rem; text-decoration: none;&quot;&gt;Card Payments&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 7.34375px; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; line-height: 2.4em;&quot;&gt;&lt;a class=&quot;hover-uline&quot; href=&quot;https://www.iotafinance.com/en/SWIFT-ISO20022-Business-domain-Foreign-Exchange.html&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; border: 0px; font-size: 1.3rem; text-decoration: none;&quot;&gt;Foreign Exchange&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 7.34375px; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; line-height: 2.4em;&quot;&gt;&lt;a class=&quot;hover-uline&quot; href=&quot;https://www.iotafinance.com/en/SWIFT-ISO20022-Business-domain-Payments-and-Cash-Management.html&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; border: 0px; font-size: 1.3rem; text-decoration: none;&quot;&gt;Payments and Cash Management&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 7.34375px; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; line-height: 2.4em;&quot;&gt;&lt;a class=&quot;hover-uline&quot; href=&quot;https://www.iotafinance.com/en/SWIFT-ISO20022-Business-domain-Securities.html&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; border: 0px; font-size: 1.3rem; text-decoration: none;&quot;&gt;Securities&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 7.34375px; border: 0px; outline: 0px; background: transparent; font-family: tfwRegular, Arial, &amp;quot;sans-serif&amp;quot;; line-height: 2.4em;&quot;&gt;&lt;a class=&quot;hover-uline&quot; href=&quot;https://www.iotafinance.com/en/SWIFT-ISO20022-Business-domain-Trade-Services.html&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; border: 0px; font-size: 1.3rem; text-decoration: none;&quot;&gt;Trade Services&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" id="pOoX2Zl-OwzORsFCfCpn-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="120" y="150" width="400" height="250" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-2" value="Card Payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-3" value="Foreign Exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-4" value="Payments and Cash Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-29" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-5" target="pOoX2Zl-OwzORsFCfCpn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-5" value="&lt;b&gt;&lt;font style=&quot;color: rgb(153, 51, 255);&quot;&gt;Securities&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-6" value="Trade Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-8" target="pOoX2Zl-OwzORsFCfCpn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;Account Management (acmt)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.75" y="580" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-9" target="pOoX2Zl-OwzORsFCfCpn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;Authorities Communications (auth)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.51" y="427.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-10" target="pOoX2Zl-OwzORsFCfCpn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Collateral Management (colr)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.76" y="477.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-11" target="pOoX2Zl-OwzORsFCfCpn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;Reference Data (reda)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.76" y="527.5" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-12" target="pOoX2Zl-OwzORsFCfCpn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;Securities Clearing (secl)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-13" target="pOoX2Zl-OwzORsFCfCpn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-13" value="&lt;b style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(153, 51, 255);&quot;&gt;Securities Events (seev)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.51" y="377.5" width="198.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-14" target="pOoX2Zl-OwzORsFCfCpn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;Securities Management (semt)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="360.63" y="791" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-15" target="pOoX2Zl-OwzORsFCfCpn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;Securities Settlement (sese)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360.63" y="740" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-16" target="pOoX2Zl-OwzORsFCfCpn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-16" value="&lt;b style=&quot;color: rgb(255, 0, 0); text-align: left;&quot;&gt;Securities Trade (setr)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.38" y="640" width="198.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-17" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: 宋体, SimSun; font-size: 14px; text-align: start;&quot;&gt;E-CAMS (账户)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-18" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: 宋体, SimSun; font-size: 14px; text-align: start;&quot;&gt;SIM6.0（清算）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="691.5" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-20" value="E-FSS （结算）&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-21" value="E-COS (&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;结算后管理&lt;/span&gt;)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="793.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-22" value="CA Master Center （公司行动）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="375" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-38" value="交易" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="639" width="115" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-40" value="监管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="427.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-41" value="抵押" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="477.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-42" value="参考数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="527.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-46" target="pOoX2Zl-OwzORsFCfCpn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-46" target="pOoX2Zl-OwzORsFCfCpn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-46" target="pOoX2Zl-OwzORsFCfCpn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-46" target="pOoX2Zl-OwzORsFCfCpn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOoX2Zl-OwzORsFCfCpn-46" target="pOoX2Zl-OwzORsFCfCpn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOoX2Zl-OwzORsFCfCpn-46" value="ISO20022" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="535" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

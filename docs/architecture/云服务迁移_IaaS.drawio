@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="3166" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="400" width="1570" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="863" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="490" y="423" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="1233" y="423" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="170" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="560" y="393" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="933" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="1303" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;评估分析&lt;/h1&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="423" width="450" height="645" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;迁移&lt;/span&gt;实施&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="445.5" width="550" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 迁移后工作&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1178" y="140" width="282" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WArp-TCkvU9cTlCGMlBO-2" value="&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;1.业务评估与分析&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;评估当前业务适合迁移的服务&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;评估当前生产服务的负载&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;2.旧环境评估与分析&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;评估现有物理机的硬件配置&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;db / nas / network(VIP/LB/IP) / machines(CPU/Mem/Disk)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;评估当前的资源利用率&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;评估当前的性能指标&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;分析哪些服务有兼容性问题&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;分析当前的CI/CD是否可复用&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;3.虚拟化平台的选择&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;公司级别已采购Redhat IaaS Cloud&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;4.新环境预估&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;跟据2来估算需要的虚拟机配置&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;db / nas / network(VIP/LB/IP) / machines(CPU/Mem/Disk)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;预估未来2-3年的数据增长量&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;设定虚拟机资源监控阈值&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;（&amp;gt;=80% should inc）(&amp;gt;=90% must inc)&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;解决某些特殊的兼容性问题额外需要什么资源&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;复用CI/CD工具并优化CI/CD流水线&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="458" width="440" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WArp-TCkvU9cTlCGMlBO-4" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;方案与计划制定&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-50" width="370" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WArp-TCkvU9cTlCGMlBO-3" value="&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;1.制定数据迁移方案&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;数据库迁移复制 （预复制+增量）&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;NAS的迁移 （同时挂载+Rsync）&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;消息队列数据迁移 （从上游服务依次停机等待下游消费）&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;2.监控方案制定&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;新旧系统同步制作监控指标看板&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;3.迁移计划制定&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;详细的迁移时间表&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;（DEV / SIT / UAT / PROD）&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;详细的切流时间与流程&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;详细的回滚流程与时长&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;评估停机时长对业务的影响&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-15" width="390" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WArp-TCkvU9cTlCGMlBO-6" value="&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;1.新环境搭建&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;根据stage1-4的估算申请Cloud虚拟机资源&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;db / nas / network(VIP/LB/IP) / machines(CPU/Mem/Disk)&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;CI/CD 工具复用和新流水线建设&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;配置新服务监控&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;2.系统代码变更&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;所有旧系统代码必须上git实现严格版本管理保证新旧系统的逻辑一致&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;尽量保证虚拟机跟物理机系统和服务目录结构一致实现无代码变更&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;3.测试验证&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;功能测试保证各服务正常运行&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;性能测试，保证性能 &amp;gt;= 旧系统&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;client验收测试保证对下游无影响&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;4.数据迁移&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;提前一周的周末进行停机全量复制+切流前的停机增量复制，保证数据完整性同时减少复制时间&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;虚拟机同时mount 新旧NAS盘实时Rsync&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;从上游服务开始停机等待相应消息队列为空&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;5.网络切换&lt;/p&gt;&lt;p style=&quot;font-size: 13px; text-align: left;&quot;&gt;配置新的LB和备用VIP域名，第一阶段使用备用域名访问新环境做线上验证，再切换旧域名绑定至新环境的LB上&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="500" width="477" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="WArp-TCkvU9cTlCGMlBO-7" value="&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;1.监控优化&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;建立新的监控指标和看板并不断优化&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;2.资源调控&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;根据实际资源使用情况，及时调整虚拟资源&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;3.文档完善&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;更新架构和基础设施文档&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;更新运维手册&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;4.项目复盘&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;开项目复盘会议，总结迁移中的问题&lt;/div&gt;&lt;div style=&quot;font-size: 13px; text-align: left;&quot;&gt;记录迁移过程的经验教训&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="180" width="282" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
